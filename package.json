@@ -1,0 +1,22 @@
+{
+  "name": "rest_class",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Gungun",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.3",
+    "method-override": "^3.0.0",
+    "nodemon": "^3.1.0",
+    "run": "^1.5.0",
+    "uuid": "^9.0.1"
+  },
+  "keywords": [],
+  "description": ""
+}
